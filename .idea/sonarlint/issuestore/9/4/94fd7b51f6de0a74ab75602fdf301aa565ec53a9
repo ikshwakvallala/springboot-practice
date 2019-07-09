@@ -1,0 +1,10 @@
+
+vsquid:UselessImportCheck"FRemove this unused import 'org.springframework.stereotype.Controller'.(øŠ—Öùÿÿÿÿ8Ø· ß¬-
+fsquid:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(¹ù¶é8­»‡Ú¬-
+fsquid:S4488#"HReplace "@RequestMapping(method = RequestMethod.PUT)" with "@PutMapping"(üŠ£ó8œç£Ú¬-
+^squid:S4684%"@Replace this persistent entity with a simple POJO or DTO object.(°†¼ò8ïŽ½Ú¬-
+ksquid:S4488+"HReplace "@RequestMapping(method = RequestMethod.PUT)" with "@PutMapping"(ü¨ðèýÿÿÿÿ8°„ÊÚ¬-
+fsquid:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(¶£‰§8í’ýÒ¬-
+lsquid:S44881"NReplace "@RequestMapping(method = RequestMethod.DELETE)" with "@DeleteMapping"(­µî½8äŽËÚ¬-
+]squid:S4684-"@Replace this persistent entity with a simple POJO or DTO object.(¢þøa8°„ÊÚ¬-
+}squid:S1488"`Immediately return this expression instead of assigning it to the temporary variable "customer".(æìñ8µÜ•Ù¬-

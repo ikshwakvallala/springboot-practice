@@ -1,0 +1,9 @@
+
+msquid:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ïƒëœûÿÿÿÿ8¦ØËÙ®-
+vsquid:UselessImportCheck"FRemove this unused import 'org.springframework.stereotype.Controller'.(øŠ—Öùÿÿÿÿ8ŠÊó×®-
+hsquid:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(Ô¥ø‚8ã–×®-
+squid:UselessImportCheck"ORemove this unused import 'com.fasterxml.jackson.annotation.JsonBackReference'.(»Ôœ¿ıÿÿÿÿ8ı‡¤Ø®-
+fsquid:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(²Í’Ó8Š˜‰ó®-
+]squid:S4684"@Replace this persistent entity with a simple POJO or DTO object.(Ä“Á8ã–×®-
+}squid:UselessImportCheck"RRemove this unused import 'com.fasterxml.jackson.annotation.JsonManagedReference'.(Æ˜µ8ï±˜Ø®-
+csquid:S4684"@Replace this persistent entity with a simple POJO or DTO object.(ªÛƒıùÿÿÿÿ8²ÌÈÙ®-

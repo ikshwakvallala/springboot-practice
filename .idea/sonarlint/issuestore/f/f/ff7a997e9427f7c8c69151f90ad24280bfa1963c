@@ -1,0 +1,6 @@
+
+wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Œ©ÄÈıÿÿÿÿ
+lsquid:S2259;"IA "NullPointerException" could be thrown; "transaction" is nullable here.(¤¿ÅŒüÿÿÿÿ8ãôÕ®-
+lsquid:S2259\"IA "NullPointerException" could be thrown; "transaction" is nullable here.(¤¿ÅŒüÿÿÿÿ8Ğñ½Ù®-
+gsquid:S2259="DA "NullPointerException" could be thrown; "status" is nullable here.(ĞÇ€íÿÿÿÿÿ8ê¢÷Õ®-
+jsquid:S1192,"GDefine a constant instead of duplicating this literal "Failed" 5 times.(¶†Îƒşÿÿÿÿ8ıá÷Õ®-

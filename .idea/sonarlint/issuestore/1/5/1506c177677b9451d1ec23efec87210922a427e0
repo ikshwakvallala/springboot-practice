@@ -1,0 +1,6 @@
+
+hsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(ÒŽ¾i8Á‹ì¸¼-
+isquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(œùÒ8½È¦Þ¬-
+ssquid:UselessImportCheck"HRemove this unused import 'com.fasterxml.jackson.annotation.JsonIgnore'.(þ‘‹„8Ö£§Þ¬-
+isquid:CommentedOutCodeLine!"<This block of commented-out lines of code should be removed.(äãˆ8žÇì¸¼-
+¤squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(©™Þ¯úÿÿÿÿ8žÇì¸¼-

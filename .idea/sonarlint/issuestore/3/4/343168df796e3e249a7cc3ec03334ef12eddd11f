@@ -1,0 +1,4 @@
+
+Xsquid:UselessImportCheck"(Remove this unused import 'lombok.Data'.(χν«ÿÿÿÿÿ8Ιημÿ®-
+ƒsquid:S4165%"`Remove this useless assignment; "id" already holds the assigned value along all execution paths.(£©θΪώÿÿÿÿ8δ“λÿ®-
+Psquid:S1172$"-Remove this unused method parameter "bankId".(εσόΚÿÿÿÿÿ8δ“λÿ®-

@@ -1,0 +1,14 @@
+
+^squid:S46840"@Replace this persistent entity with a simple POJO or DTO object.(Ê‰ã8–¬ùĞ®-
+ksquid:S4488/"HReplace "@RequestMapping(method = RequestMethod.PUT)" with "@PutMapping"(Ì–¦¤ıÿÿÿÿ8²Ÿ¼¯®-
+}squid:S1488"_Immediately return this expression instead of assigning it to the temporary variable "account".(ğíÓ8ì§À¯®-
+fsquid:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(¢ıËá8«³¤¯®-
+isquid:CommentedOutCodeLine*"<This block of commented-out lines of code should be removed.(ŞÎë8Ââµ¯®-
+fsquid:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Â¥£Ä8ì§À¯®-
+rsquid:UselessImportCheck"GRemove this unused import 'com.example.account.repository.AccountRepo'.(˜¨8±Èª¯®-
+}squid:UselessImportCheck"RRemove this unused import 'com.fasterxml.jackson.annotation.JsonIgnoreProperties'.(ô’ˆî8×¾ãĞ®-
+^squid:S4684)"@Replace this persistent entity with a simple POJO or DTO object.(Ïàé†8–¬ùĞ®-
+lsquid:S44884"NReplace "@RequestMapping(method = RequestMethod.DELETE)" with "@DeleteMapping"(ëÏÈë8ì‡¿¯®-
+vsquid:UselessImportCheck	"FRemove this unused import 'org.springframework.stereotype.Controller'.(øŠ—Öùÿÿÿÿ8ùÂ·Ã®-
+msquid:S4488'"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(¢è£÷øÿÿÿÿ8ÒÛº¯®-
+ksquid:S4488""HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(­·ÊÊüÿÿÿÿ8Ò®Á¯®-

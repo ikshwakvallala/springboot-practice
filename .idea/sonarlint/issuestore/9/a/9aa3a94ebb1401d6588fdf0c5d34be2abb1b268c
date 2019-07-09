@@ -1,0 +1,9 @@
+
+\squid:S4684+"@Replace this persistent entity with a simple POJO or DTO object.(Ãí¥ıÿÿÿÿ
+^squid:S4488/"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(‡ˆ±H
+dsquid:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(ßÑÇâşÿÿÿÿ
+\squid:S4684"@Replace this persistent entity with a simple POJO or DTO object.(ï‹¾øÿÿÿÿ
+jsquid:S4488$"NReplace "@RequestMapping(method = RequestMethod.DELETE)" with "@DeleteMapping"(ÉŒİæüÿÿÿÿ
+fsquid:S4488"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ÌÚ÷¤ıÿÿÿÿ
+_squid:S4488"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(¡çáš
+_squid:S4488*"HReplace "@RequestMapping(method = RequestMethod.PUT)" with "@PutMapping"(‹Û“è

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="customerservice" />
+        <module name="branchservice" />
+        <module name="account-service" />
+        <module name="spring-euraka-zuul" />
+        <module name="springeurekaserver" />
+        <module name="springeurekazuul" />
+        <module name="accountservice" />
+        <module name="branch-service" />
+        <module name="bankservice" />
+        <module name="customer-service" />
+        <module name="transaction-service" />
+        <module name="spring-eureka-server" />
+        <module name="bank-service" />
+        <module name="transactionservice" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="springeurekagallery" target="1.8" />
+      <module name="springeurekaimage" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="account-service" options="-parameters" />
+      <module name="accountservice" options="-parameters" />
+      <module name="bank-service" options="-parameters" />
+      <module name="bankservice" options="-parameters" />
+      <module name="branch-service" options="-parameters" />
+      <module name="branchservice" options="-parameters" />
+      <module name="customer-service" options="-parameters" />
+      <module name="customerservice" options="-parameters" />
+      <module name="spring-euraka-zuul" options="-parameters" />
+      <module name="spring-eureka-server" options="-parameters" />
+      <module name="springeurekagallery" options="-parameters" />
+      <module name="springeurekaimage" options="-parameters" />
+      <module name="springeurekaserver" options="-parameters" />
+      <module name="springeurekazuul" options="-parameters" />
+      <module name="transaction-service" options="-parameters" />
+      <module name="transactionservice" options="-parameters" />
+    </option>
+  </component>
+</project>
