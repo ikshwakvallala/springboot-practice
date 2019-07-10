@@ -5,7 +5,7 @@
 
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.eureka.zuul</groupId>
-    <artifactId>spring-euraka-zuul</artifactId>
+    <artifactId>spring-eureka-zuul</artifactId>
     <packaging>jar</packaging>
     <name>zuul-service</name>
     <description>Demo project for Spring Boot</description>
