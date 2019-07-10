@@ -24,8 +24,10 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="eureka-server" target="1.8" />
       <module name="springeurekagallery" target="1.8" />
       <module name="springeurekaimage" target="1.8" />
+      <module name="zuul-service" target="1.8" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -38,6 +40,7 @@
       <module name="branchservice" options="-parameters" />
       <module name="customer-service" options="-parameters" />
       <module name="customerservice" options="-parameters" />
+      <module name="eureka-server" options="-parameters" />
       <module name="spring-euraka-zuul" options="-parameters" />
       <module name="spring-eureka-server" options="-parameters" />
       <module name="springeurekagallery" options="-parameters" />
@@ -46,6 +49,7 @@
       <module name="springeurekazuul" options="-parameters" />
       <module name="transaction-service" options="-parameters" />
       <module name="transactionservice" options="-parameters" />
+      <module name="zuul-service" options="-parameters" />
     </option>
   </component>
 </project>
