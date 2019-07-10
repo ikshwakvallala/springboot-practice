@@ -66,10 +66,8 @@ services:
     ports:
       - 8085:8085
     depends_on:
-      eureka-server:
-        condition: service_healthy
-      mysql-container:
-        condition: service_healthy
+      - eureka-server
+      - mysql-container
     environment:
       SPRING_APPLICATION_JSON: '{
         "spring.jpa.database-platform" : "org.hibernate.dialect.MySQLDialect",
@@ -89,10 +87,8 @@ services:
     ports:
       - 8086:8086
     depends_on:
-      eureka-server:
-        condition: service_healthy
-      mysql-container:
-        condition: service_healthy
+      - eureka-server
+      - mysql-container
     environment:
       SPRING_APPLICATION_JSON: '{
         "spring.jpa.database-platform" : "org.hibernate.dialect.MySQLDialect",
@@ -112,10 +108,8 @@ services:
     ports:
       - 8087:8087
     depends_on:
-      eureka-server:
-        condition: service_healthy
-      mysql-container:
-        condition: service_healthy
+      - eureka-server
+      - mysql-container
     environment:
       SPRING_APPLICATION_JSON: '{
       "spring.jpa.database-platform" : "org.hibernate.dialect.MySQLDialect",
@@ -131,12 +125,11 @@ services:
       }'
     restart: on-failure
   zuul-service:
-    image: zuul-service
+    image: zuul-service:latest
     ports:
       - "8762:8762"
     depends_on:
-      eureka-server:
-        condition: service_healthy
+      - eureka-server
     environment:
       SPRING_APPLICATION_JSON: '{
       "server.port": "8762",
@@ -161,10 +154,8 @@ services:
     ports:
       - 8088:8088
     depends_on:
-      eureka-server:
-        condition: service_healthy
-      mysql-container:
-        condition: service_healthy
+      - eureka-server
+      - mysql-container
     environment:
       SPRING_APPLICATION_JSON: '{
       "spring.jpa.database-platform" : "org.hibernate.dialect.MySQLDialect",
