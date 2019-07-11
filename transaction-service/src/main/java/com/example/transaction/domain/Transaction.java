@@ -13,7 +13,6 @@ import java.util.Date;
 public class Transaction implements Serializable {
 
     @Id
-    @GeneratedValue(strategy = GenerationType.AUTO)
     private int transactionId;
     private double transactionAmount;
     private String transactionDescription;

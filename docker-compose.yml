@@ -125,7 +125,7 @@ services:
       }'
     restart: on-failure
   zuul-service:
-    image: zuul-service:latest
+    image: spring-eureka-zuul:latest
     ports:
       - "8762:8762"
     depends_on:
